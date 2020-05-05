@@ -1,2 +1,2 @@
 # Python_practicing
-small programs in Python for practicing
+small programs to learn and practice coding in Python
